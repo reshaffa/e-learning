@@ -12,8 +12,8 @@ Materi pembelajarn E-Learning Mahasiswa Universitas Bina Sarana Informatika. Dih
 	<li>Mengenal Form HTML</li>
 	<li>Hasil Akhir Project</li>
 </ol>
-Jika ingin lebih jelas dan lebih paham dalam belajar mengenai HTML, silahkan kunjungi youtube kami di <a href="https://www.youtube.com/playlist?list=PLUIcLB6qFqtChleH6XRRd1dj_cHh7fPLX" target="_blank">[RStudio Youtube Channel (HTML Videos)]</a>
-
+Jika ingin lebih jelas dan lebih paham dalam belajar mengenai HTML, silahkan teman-teman kunjungi youtube kami di <a href="https://www.youtube.com/playlist?list=PLUIcLB6qFqtChleH6XRRd1dj_cHh7fPLX" target="_blank">[RStudio Youtube Channel (HTML Videos)]</a>
+</br>
 <b>List Materi Pembelajaran PHP Basic :</b>
 <ol type="1">
 	<li>Mengenal Syntax Dasar PHP</li>
@@ -46,5 +46,6 @@ Jika ingin lebih jelas dan lebih paham dalam belajar mengenai HTML, silahkan kun
 	<li>Membuat Contoh Function Sederhana</li>
 	<li>Mengenal PHP Superglobal Variabel</li>
 </ol>
-Jika teman-teman ingin lebih jelas dan cepat dalam memahami setiap baris yang kami jelaskan, silahkan teman-teman kunjungi youtube kami di <a href="https://www.youtube.com/playlist?list=PLUIcLB6qFqtC2qV1dDekmmYdi-sqWwydS">[RStudio Youtube Channel (PHP Videos)]</a>. Jangan lupa untuk like dan subscribe ya.
+Jika teman-teman ingin lebih jelas dan cepat dalam memahami setiap baris yang kami jelaskan, silahkan teman-teman kunjungi youtube kami di <a href="https://www.youtube.com/playlist?list=PLUIcLB6qFqtC2qV1dDekmmYdi-sqWwydS">[RStudio Youtube Channel (PHP Videos)]</a>. 
+</br>Jangan lupa untuk like dan subscribe ya.
 Semoga dengan vidio ini dapat membantu teman-teman dalam belajar web programming.
