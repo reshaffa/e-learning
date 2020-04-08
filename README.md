@@ -1,6 +1,12 @@
 # E-Learning Web Programming I (Universitas Bina Sarana Informatika)
 Materi pembelajarn E-Learning Mahasiswa Universitas Bina Sarana Informatika. Diharapkan mahasiswa dapat memahami dan mengerti tentang penggunaan HTML, CSS, Javascript dan PHP.
 
+<b>Aplikasi yang perlu disiapkan : </b>
+<ol type="1">
+	<li>Web Server (XAMPP, WAMP)</li>
+	<li>Text Editor (Sublime Text, Visual Studio Code, Notepad++, Atom)</li>
+</ol>
+</br>
 <b>List Materi Pembelajaran HTML Basic :</b>
 <ol type="1">
 	<li>Mengenal Tag Dasar HTML</li>
