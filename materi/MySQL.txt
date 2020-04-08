@@ -1,0 +1,3 @@
+# Menampilkan pusat dokumentasi di mysql :
+> help contents;
+> help content_name;
