@@ -1,0 +1,64 @@
+<html>
+	<head>
+		<title>HTML TABLE</title>
+		<!-- styling css internal -->
+		<style>
+			table{
+				width: 80%;
+			}
+			th {
+				background-color: orange;
+			}
+			table, th, td{
+				border: 1px solid black;
+				border-collapse: collapse;
+				text-align: center;
+			}
+		</style>
+		<!-- end style -->
+	</head>
+	<body>
+		<!-- 
+			TABLE HTML 
+			table -> tr (table rows) -> th (table header)
+			table -> tr -> td (table data /column)
+			penggabungan column (colspan)
+			penggabungan baris (rowspan)
+		-->
+		<h1 style="text-align: center">SAMPLE TABLE MAHASIWA</h1>
+		<!-- ini bagian table -->
+		<table>
+			<tr> <!-- table baris -->
+				<th>No</th> <!-- table header -->
+				<th>Nama</th>
+				<th>Kelas</th>
+				<th>Usia</th>
+				<th>Alamat</th>
+			</tr>
+			<tr> <!-- baris pertama isi -->
+				<td>1</td>
+				<td>Angga Ferdiansyah</td>
+				<td>I A</td>
+				<td>22</td>
+				<td>Jl. Benyamin No. 56</td>
+			</tr>
+			<tr> <!-- baris kedua isi -->
+				<td>2</td>
+				<td>Ririn Nurida</td>
+				<td>I B</td>
+				<td rowspan="2">19</td>
+				<td rowspan="2">Jl. Kemanggisan barat No. 112</td>
+			</tr>
+			<!-- penggabungan baris -->
+			<tr>
+				<td>3</td>
+				<td>Ririn Nurida</td>
+				<td>I B</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right"><b>Total Siswa</b></td>
+				<td>3 orang</td>
+			</tr>
+		</table>
+	</body>
+</html>
