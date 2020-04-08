@@ -12,4 +12,4 @@ Materi pembelajarn E-Learning Mahasiswa Universitas Bina Sarana Informatika. Dih
 	<li>Implementasi Form HTML</li>
 	<li>Hasil Akhir Project</li>
 </ol>
-Jika ingin lebih jelas dan lebih paham dalam belajar, silahkan kunjungi youtube kami di [RStudio Youtube Channel] (https://www.youtube.com/playlist?list=PLUIcLB6qFqtChleH6XRRd1dj_cHh7fPLX).
+Jika ingin lebih jelas dan lebih paham dalam belajar, silahkan kunjungi youtube kami di <a href="https://www.youtube.com/playlist?list=PLUIcLB6qFqtChleH6XRRd1dj_cHh7fPLX" target="_blank">[RStudio Youtube Channel]</a>
